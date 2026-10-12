@@ -6,10 +6,6 @@ Clearview BI is a **tool-using AI business analyst agent** for startups and smal
 
 > **Demo data:** The included CSVs and the sample figures in screenshots and the presentation are synthetic. They are for product demonstration only and are not customer results or financial guidance.
 
-## Hackathon submission
-
-- **Impact slides:** [Clearview BI Hackathon Impact Deck](presentation-output/Clearview-BI-Hackathon-Impact-Deck-v2.pptx). The deck labels demo data and separates demonstrated functionality from pilot outcomes that have not yet been measured.
-- **Demo video:** Submit separately as a 2–3 minute walkthrough.
 
 ## At a glance
 
